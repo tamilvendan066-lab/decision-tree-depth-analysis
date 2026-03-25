@@ -57,7 +57,7 @@ The results show that increasing the depth improves training accuracy, but after
   - feature_importance.png  
   - tree.png  
   - overfitting.png
-  - 
+  
 ## Technologies Used
 - Python  
 - Scikit-learn  
@@ -78,7 +78,7 @@ The results show that increasing the depth improves training accuracy, but after
 Increasing tree depth improves training accuracy but reduces testing performance due to overfitting.
 
 ##  Author
-Tamilvendan Sathyamoorthy---
+Tamilvendan Sathyamoorthy
 
 ## License
 This project is licensed under the MIT License.
